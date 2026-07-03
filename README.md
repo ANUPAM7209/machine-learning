@@ -1,6 +1,6 @@
 # mlp
 All about machine learning
-##Project Overview
+#Project Overview
 Built a complete Machine Learning workflow from data loading to model preparation.
 Performed Exploratory Data Analysis (EDA) to understand data patterns and relationships.
 Implemented data preprocessing and feature engineering techniques.
@@ -11,7 +11,7 @@ NumPy for numerical computations.
 Matplotlib for data visualization.
 Seaborn for statistical graphics and insights.
 Scikit-learn for preprocessing and machine learning utilities (if used).
-##EDA Tasks
+#EDA Tasks
 Data inspection and understanding dataset structure.
 Handling missing values.
 Identifying duplicate records.
@@ -27,7 +27,7 @@ Feature scaling and normalization.
 Feature selection.
 Handling imbalanced data (if applicable).
 Data cleaning and transformation.
-##Visualizations
+#Visualizations
 Histograms
 Boxplots
 Count plots
@@ -35,11 +35,11 @@ Scatter plots
 Pair plots
 Correlation heatmaps
 Bar charts
-##Sample README Description
+#Sample README Description
 
 This repository contains end-to-end Machine Learning data preparation workflows. It covers data cleaning, exploratory data analysis (EDA), feature engineering, preprocessing techniques, and visualization using Pandas, NumPy, Matplotlib, and Seaborn. The project demonstrates best practices for preparing real-world datasets for machine learning model development.
 
-##Skills Demonstrated
+#Skills Demonstrated
 Data Analysis
 Data Cleaning
 Exploratory Data Analysis (EDA)
